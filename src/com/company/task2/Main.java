@@ -34,6 +34,9 @@ public class Main {
         String [] arr3 = {"Hello", "World", "!!!!"};
         System.out.println(arr3[2]);
         int [][] arr4 = {{1,2}, {3,4}, {5,6}};
+        // 1,2
+        // 3,4
+        // 5,6
 
 
 
